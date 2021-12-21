@@ -1,5 +1,5 @@
-<img src="Images/Unissula_logo.png" align="left" width=100px margin=0px>
-<img src="Images/Logo-fti.jpg" align="right" width=100px margin=0px>
+ <img src="Images/logo-fti.jpg" align="right" width=150px margin=0px><img src="Images/Unissula_logo.png" align="left" width=100px margin=0px>
+
 <h1 align="center">TUGAS MEMBUAT APLIKASI DENGAN PENERAPAN <i>OBJECT ORIENTED PROGRAMMING</i></h1>
 
 
