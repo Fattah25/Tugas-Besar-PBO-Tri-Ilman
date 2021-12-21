@@ -3,7 +3,7 @@
 <h1 align="center">TUGAS PEMBUATAN APLIKASI DENGAN PENERAPAN <i>OBJECT ORIENTED PROGRAMMING</i></h1>
 <br>
 
-**Daftar Isi: **
+**Daftar Isi:**
 
 - [My Profil](#profil "panggil aja ilman")
 - [Proyek Aplikasi](#proyek-aplikasi "aplikasi sederhana")
