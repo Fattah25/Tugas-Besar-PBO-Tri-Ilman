@@ -5,7 +5,11 @@
 
 <br>
 
- <img src="Images/logo_fti.jpg" align="left" width=110px margin=0px>
-Tugas Pemrograman Berorientasi Objek Semester 3 Universitas Islam Sultan Agung Semarang. My little donut.c has been making the rounds again, after being featured in a couple YouTube videos (e.g., Lex Fridman and Joma Tech). If I had known how much attention this code would get over the years, I would have spent more time on it.
+<img src="Images/logo_fti.jpg" align="left" width=110px margin=0px>
 
-One thing that’s always been sort of unfortunate is the heavy use of sin and cos – both because it necessitates linking the math library (-lm), but also because it makes it much more CPU-intensive than it really needs to be. This is especially apparent if you try to port it to an older CPU or an embedded device.
+
+**Nama :** Tri Ilman Almunawarah Fattah<br>
+**NIM :** 32602000101<br>
+**Fakultas :** Teknologi Industri
+**Prodi :** Teknik Informatika`
+ 
