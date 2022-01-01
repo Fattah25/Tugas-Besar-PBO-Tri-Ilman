@@ -23,4 +23,4 @@
  
 ## PROYEK APLIKASI
 
-1. [Body Mass Index](body_mass_index)
+1. [Body Mass Index](body_mass_index "------Aplikasi Desktop------------")
