@@ -22,3 +22,5 @@
  <br>
  
 ## PROYEK APLIKASI
+
+1. [Body Mass Index](body_mass_index)
