@@ -24,6 +24,7 @@
 ## PROYEK APLIKASI
 
 1. [Body Mass Index](body_mass_index "------Aplikasi Desktop------------")
+2. [Konversi Suhu](konversi_suhu "-----Aplikasi Desktop-------------")
 
 
 <br>
