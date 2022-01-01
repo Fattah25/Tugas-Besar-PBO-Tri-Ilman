@@ -1,6 +1,6 @@
 <h1 align="center">Cara Menggunakan Kalkulator BMI</h1>
 
-1. Pertama, _download_ file **rar** di folder **Aplikasi** atau [di sini](body_mass_index/Aplikasi/dist.rar).
+1. Pertama, _download_ file **rar** di folder **Aplikasi** atau [di sini](body_mass_index/Aplikasi).
 2. Setelah men-_download_ lakukan seperti apa yang ditunjukkan di bawah ini :
  
 |<img src="../Images/instalasi.gif" width=900px>|
