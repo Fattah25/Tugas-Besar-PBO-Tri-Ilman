@@ -19,4 +19,4 @@
 |![cara menggunakan](../Images/cara_menggunakan.gif)|
 |---|
 
-  > **Keterangan :** Perlu diketahui bahwa cara kerja aplikasi kalkulator ini adalah dengan penyesuaian kondisi dari BMI itu sendiri dengan rumus `BMI = massa/tinggi^2`, dimana _massa_ = kg, dan tinggi = meter dan Umur atau usia. Setiap BMI yang keluar akan menampilkan 3 warna. untuk warna **kuning** menunjukkan berat badan yang agak berat atau agak ringan (belum tahap Obesitas. Lebih jelasnya lihat tabel pada aplikasi). untuk warna **hijau** menunjukkan berat badan normal dan untuk warna **merah** untuk obesitas akut atau kekurangan gizi.
+  > **Keterangan :** Perlu diketahui bahwa cara kerja aplikasi kalkulator ini adalah dengan penyesuaian kondisi dari BMI itu sendiri dengan rumus `BMI = massa/tinggi^2`, dimana _massa_ = kg, dan tinggi = meter dan Umur atau usia. Setiap BMI yang keluar akan menampilkan 3 warna. untuk warna **kuning** menunjukkan berat badan yang agak berat atau agak ringan (belum tahap Obesitas. Lebih jelasnya lihat tabel pada aplikasi). untuk warna **hijau** menunjukkan berat badan normal dan untuk warna **merah** untuk obesitas akut atau kekurangan gizi (terlalu kurus).
