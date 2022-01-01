@@ -5,4 +5,4 @@ Cara menggunakan Aplikasi :
 1. _Download_ file `rar` di folder **Aplikasi** atau [di sini](Aplikasi/konversi.rar)
 2. Selanjutnya ikuti tutorial di bawah ini.
 
-![tutorial konversi suhu](#)
+![tutorial konversi suhu](../Images/tutorial2.gif "Tutorial instalasi dana cara  menggunakan Aplikasi")
