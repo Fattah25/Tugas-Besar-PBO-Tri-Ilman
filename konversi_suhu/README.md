@@ -1,4 +1,4 @@
-<h1 align="center">Aplikasi Desktop untuk Konversi Suhu (_celcius - fahrenheit_ dan _fahrenheit - celcius_)</h1>
+<h1 align="center">Aplikasi Desktop untuk Konversi Suhu (<i>celcius - fahrenheit</i> dan <i>fahrenheit - celcius</i>)</h1>
 <br>
 
 Cara menggunakan Aplikasi :
