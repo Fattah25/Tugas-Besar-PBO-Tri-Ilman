@@ -3,7 +3,7 @@
 <br>
 
 1. Pertama, _download_ file **rar** di folder **Aplikasi** atau [di sini](Aplikasi/dist.rar).
-2. Setelah men-_download_ lakukan seperti apa yang ditunjukkan di bawah ini.
+2. Setelah men-_download_ lakukan seperti apa yang ditunjukkan di bawah ini. Gunakan file `.bat` jika file `.jar` tidak dapat dijalankan.
  
 |<img src="../Images/instalasi.gif" width=900px>|
 |---|
